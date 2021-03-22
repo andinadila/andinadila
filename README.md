@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @andinadila
-- 👀 I’m interested in Human :) jk, peace
-- 🌱 I’m currently learning Data Science in Python
 - 📫 How to reach me : https://www.linkedin.com/in/andinadila/
 
 <!---
