@@ -2,8 +2,8 @@ import streamlit as st
 from multiApp import Multipage
 
 import sys
-sys.path.append(".main/apps")
-import home, searchEntry, uploadFile, history
+sys.path.append("./apps")
+from apps import home, searchEntry, uploadFile, history
 import psycopg2
 from configuration import config
 
