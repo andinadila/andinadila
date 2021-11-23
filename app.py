@@ -1,7 +1,7 @@
 import streamlit as st
 from multiApp import Multipage
 
-from andinadila/apps import home, searchEntry, uploadFile, history
+import home, searchEntry, uploadFile, history
 # import apps.home
 # import apps.searchEntry
 # import apps.uploadFile
